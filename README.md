@@ -13,7 +13,7 @@ The programs are trivial to build: simply call `zig build-exe FILENAME -Doptimiz
 
 A Windows message box is spawned.
 
-<img src="./Readme-Imgs/question-prompt.png" alt="A Windows OS message box with a question icon." width="300">
+<img src="./Readme-Imgs/question-prompt.jpg" alt="A Windows OS message box with a question icon." width="300">
 
 ## [Indigo Window](./indigo-window.zig)
 
