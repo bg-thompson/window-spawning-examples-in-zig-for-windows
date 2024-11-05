@@ -1,5 +1,4 @@
 # Window Spawning Examples in Zig (for Windows OS)
-# window-spawning-examples-in-zig-for-windows
 
 This is a collection of elementary Zig programs that spawn windows on the Windows operating system from scratch.
 
