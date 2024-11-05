@@ -1,7 +1,7 @@
 # Window Spawning Examples in Zig (for Windows OS)
 # window-spawning-examples-in-zig-for-windows
 
-This is a collection of elementary Zig programs that spawn windows on the Windows operating system.
+This is a collection of elementary Zig programs that spawn windows on the Windows operating system from scratch.
 
 Each program is self-contained; none rely on window-spawning libraries like GLFW or SDL.
 
